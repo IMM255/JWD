@@ -1,0 +1,41 @@
+main {
+    min-height : 100vh;
+}
+header {
+    padding: 180px 0 165px 0px;
+    background-image: url('/assets/img/hero.jpg'); 
+    background-size: cover;
+    color: white;
+}
+    .card-travel {
+    min-height: 380px;
+    background-color: #ddd;
+    color: #fff;
+    padding: 30px;
+    background-size: cover;
+    margin-bottom: 20px;
+    }
+    .travel-paket {
+    font-size: 12px;
+    color: #fff;
+    }
+    .travel-name {
+    font-size: 14px;
+    color: #fff;
+    }
+    .travel-button .btn-travel-details {
+    background-color: #5B8A72;
+    color: #fff;
+    }
+
+.travel-button .btn-travel-details:hover {
+    background-color: #56776C;
+    color: #fff;
+}
+
+#gallery img{
+    max-height : 300px; 
+}
+
+
+
