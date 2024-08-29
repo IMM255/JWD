@@ -8,3 +8,7 @@ Fitur Utama
   dan melakukan pemesanan.
 - Cetak Pemesanan: Pengunjung dapat mencetak bukti pemesanan 
   setelah melakukan pemesanan.
+
+  teknologi yang digunakan
+  - html,css,php,mariadb,bootstrap
+  - dompdf,datatable,jquery
